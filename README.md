@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hosseini-ali
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning product management.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me ...
 
